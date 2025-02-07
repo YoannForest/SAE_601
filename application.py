@@ -19,6 +19,7 @@ import plotly.express as px
 
 # Chargement des données
 st.title("📊 Visualisation des Salaires en Data Science")
+st.write("Forest Yoann et Magre Jean-Baptiste")
 liste = ["Question 2","Question 3","Question 4","Question 5","Question 6","Question 7","Question 8","Question 9","Question 10"]
 tabs = st.tabs(liste)
 
